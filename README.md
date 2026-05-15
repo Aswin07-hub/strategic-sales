@@ -238,7 +238,7 @@ You can deploy this project using:
 
 # 👨‍💻 Author
 
-Developed by DHAMODHARA PRASATH J
+Developed by ASWIN C S
 
 ---
 
@@ -248,9 +248,6 @@ This project is developed for educational and learning purposes.
 
 ---
 
-# ⭐ GitHub Support
-
-If you like this project:
 
 ⭐ Star the repository
 🍴 Fork the project
